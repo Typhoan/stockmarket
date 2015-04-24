@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_d0f5ed57",
+        "filename": "pkg/order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-24T23:46:37Z",
+      "side": 1,
+      "message": "change variable name to something more descriptive.",
+      "revId": "385c24e3fc87ee50e5f3952301f32e501a813a96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_b0e311a3",
+        "filename": "pkg/order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-24T23:46:37Z",
+      "side": 1,
+      "message": "Remove these comments after you finished implementing the class.",
+      "revId": "385c24e3fc87ee50e5f3952301f32e501a813a96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
