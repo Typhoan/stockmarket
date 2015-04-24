@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_5001fd36",
+        "filename": "pkg/exception/StockMarketExpection",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-24T23:48:39Z",
+      "side": 1,
+      "message": "remove/add comments here. Don\u0027t leave empty comment brackets",
+      "revId": "abeebf119d119a560cb9be730d71ae47483436f0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
