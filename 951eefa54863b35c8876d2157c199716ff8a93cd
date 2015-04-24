@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_70dd19e0",
+        "filename": "pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-24T23:43:44Z",
+      "side": 1,
+      "message": "Consider changing the variable names so you dont have to comment",
+      "revId": "951eefa54863b35c8876d2157c199716ff8a93cd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_10d5c5b8",
+        "filename": "pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-24T23:43:44Z",
+      "side": 1,
+      "message": "Consider removing these long comments",
+      "revId": "951eefa54863b35c8876d2157c199716ff8a93cd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
