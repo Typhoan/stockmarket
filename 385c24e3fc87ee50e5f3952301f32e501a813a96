@@ -33,6 +33,75 @@
       "revId": "385c24e3fc87ee50e5f3952301f32e501a813a96",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_cbbd40b9",
+        "filename": "pkg/order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 1004747
+      },
+      "writtenOn": "2015-04-25T03:15:20Z",
+      "side": 1,
+      "message": "Rename this variable name to something that references its purpose. It helps understand what the loop is doing at first glance instead of having to evaluate it.",
+      "range": {
+        "startLine": 89,
+        "startChar": 19,
+        "endLine": 89,
+        "endChar": 21
+      },
+      "revId": "385c24e3fc87ee50e5f3952301f32e501a813a96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_cb0b808c",
+        "filename": "pkg/order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 1004747
+      },
+      "writtenOn": "2015-04-25T03:15:20Z",
+      "side": 1,
+      "message": "Rename this variable as well. I figure it\u0027ll be similar to the change on line 89.",
+      "range": {
+        "startLine": 105,
+        "startChar": 19,
+        "endLine": 105,
+        "endChar": 21
+      },
+      "revId": "385c24e3fc87ee50e5f3952301f32e501a813a96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_ebdf5c0b",
+        "filename": "pkg/order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 1004747
+      },
+      "writtenOn": "2015-04-25T03:15:20Z",
+      "side": 1,
+      "message": "Maybe rename this list to indicate what values it is holding. That way a programmer would feel more confident in adding something to it if he or she needed to.",
+      "range": {
+        "startLine": 120,
+        "startChar": 20,
+        "endLine": 120,
+        "endChar": 26
+      },
+      "revId": "385c24e3fc87ee50e5f3952301f32e501a813a96",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
