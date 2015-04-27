@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_a8b9e516",
+        "filename": "pkg/util/OrderUtility.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1004740
+      },
+      "writtenOn": "2015-04-27T00:42:20Z",
+      "side": 1,
+      "message": "Comment is not necessary. Should be removed.",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 24
+      },
+      "revId": "6435f25f519578e6f8b314c75a2ca097536e6ab2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
