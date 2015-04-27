@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_28ce95b4",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004740
+      },
+      "writtenOn": "2015-04-27T00:37:57Z",
+      "side": 1,
+      "message": "Inconsistent comment as 14 traders are created. Either remove or consider revising.",
+      "range": {
+        "startLine": 25,
+        "startChar": 3,
+        "endLine": 25,
+        "endChar": 22
+      },
+      "revId": "248a9b072648274e01d51b150749ad2a75d27588",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
