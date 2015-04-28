@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_d41f986a",
+        "filename": "pkg/market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T16:12:30Z",
+      "side": 1,
+      "message": "space not needed",
+      "revId": "818f1f9b8ffb743c74178e99c03865c0af71772a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_f41a947b",
+        "filename": "pkg/market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T16:12:30Z",
+      "side": 1,
+      "message": "unneeded space",
+      "revId": "818f1f9b8ffb743c74178e99c03865c0af71772a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
