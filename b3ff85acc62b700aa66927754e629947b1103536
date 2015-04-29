@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_5d98e469",
+        "filename": "pkg/order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1004780
+      },
+      "writtenOn": "2015-04-29T03:04:58Z",
+      "side": 1,
+      "message": "Non-communicative variable name",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 10
+      },
+      "revId": "b3ff85acc62b700aa66927754e629947b1103536",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9da53ca4",
+        "filename": "pkg/order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 1004780
+      },
+      "writtenOn": "2015-04-29T03:04:58Z",
+      "side": 1,
+      "message": "Magic numbers - describe their purpose in a concise comment or two",
+      "range": {
+        "startLine": 121,
+        "startChar": 0,
+        "endLine": 127,
+        "endChar": 22
+      },
+      "revId": "b3ff85acc62b700aa66927754e629947b1103536",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_bda8f877",
+        "filename": "pkg/order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1004780
+      },
+      "writtenOn": "2015-04-29T03:04:58Z",
+      "side": 1,
+      "message": "Confusion results from nested loop variable names. Perhaps rename so it\u0027s easier to follow.",
+      "range": {
+        "startLine": 129,
+        "startChar": 0,
+        "endLine": 132,
+        "endChar": 46
+      },
+      "revId": "b3ff85acc62b700aa66927754e629947b1103536",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
