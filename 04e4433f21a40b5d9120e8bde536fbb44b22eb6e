@@ -19,6 +19,52 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_d1ae782d",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004770
+      },
+      "writtenOn": "2015-04-29T21:16:14Z",
+      "side": 1,
+      "message": "This variable name is too similar to the other Market, \u0027m\u0027",
+      "range": {
+        "startLine": 19,
+        "startChar": 9,
+        "endLine": 19,
+        "endChar": 11
+      },
+      "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_516a88ee",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1004770
+      },
+      "writtenOn": "2015-04-29T21:16:14Z",
+      "side": 1,
+      "message": "This could be more clear.",
+      "range": {
+        "startLine": 54,
+        "startChar": 3,
+        "endLine": 54,
+        "endChar": 15
+      },
+      "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_fd6a70ec",
         "filename": "pkg/client/Client.java",
         "patchSetId": 2
@@ -81,6 +127,29 @@
       "writtenOn": "2015-04-29T04:03:42Z",
       "side": 1,
       "message": "Comment not needed. Code speaks for itself.",
+      "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_7165041d",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1004770
+      },
+      "writtenOn": "2015-04-29T21:16:14Z",
+      "side": 1,
+      "message": "Resolve the TODO statement, or remove the comment.",
+      "range": {
+        "startLine": 108,
+        "startChar": 3,
+        "endLine": 108,
+        "endChar": 37
+      },
       "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
