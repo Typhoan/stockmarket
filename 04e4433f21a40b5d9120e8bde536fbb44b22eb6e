@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_7d7680d8",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004781
+      },
+      "writtenOn": "2015-04-29T04:03:42Z",
+      "side": 1,
+      "message": "Variable \u0027m\u0027 not descriptive enough.",
+      "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_fd6a70ec",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1004781
+      },
+      "writtenOn": "2015-04-29T04:03:42Z",
+      "side": 1,
+      "message": "Avoid TODO comments. Either complete or remove",
+      "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_5d6c6408",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1004781
+      },
+      "writtenOn": "2015-04-29T04:03:42Z",
+      "side": 1,
+      "message": "Comment not needed. Code speaks for itself.",
+      "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_3d71a8e0",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1004781
+      },
+      "writtenOn": "2015-04-29T04:03:42Z",
+      "side": 1,
+      "message": "Same as above.",
+      "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9d79bcca",
+        "filename": "pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 1004781
+      },
+      "writtenOn": "2015-04-29T04:03:42Z",
+      "side": 1,
+      "message": "Comment not needed. Code speaks for itself.",
+      "revId": "04e4433f21a40b5d9120e8bde536fbb44b22eb6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
